@@ -6,13 +6,16 @@ The Ibiz Business Hotel Guest Insights Dashboard is an Excel-based BI report des
 🛠 Tech Stack
 
 📊 Microsoft Excel – Data cleaning, pivot analysis, visualization, and KPI dashboards
+
 📁 Formats – .xlsx for analysis, .png for sharing dashboards
 
 
 📑 Data Source
 
 Source: Internal booking system (April – June 2024)
+
 Size: ~115 bookings, 41 unique guests
+
 Key Fields: Guest ID, Booking ID, Room Type, Days Booked, Booking Date, Amount Paid
 
 
@@ -47,9 +50,13 @@ Helps management design targeted promotions & loyalty rewards
 
 KPIs:
 💰 Total Revenue: ₹1,642,500
+
 🛎️ Total Bookings: 115
+
 👥 Unique Guests: 41
+
 📊 Avg. Booking Amount per Transaction: ₹14,283
+
 📈 Avg. Revenue per Guest: ₹40,061
 
 
