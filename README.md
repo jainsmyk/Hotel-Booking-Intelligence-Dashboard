@@ -110,8 +110,6 @@ Screenshots:
 <img width="1545" height="784" alt="Screenshot of Frequent Guest" src="https://github.com/user-attachments/assets/531fd68d-f617-4b26-a417-f4c4f0ace1c4" />
 
 
-<img width="1545" height="784" alt="Screenshot of Frequent Guest" src="https://github.com/user-attachments/assets/c347fe40-e9e0-4a44-b282-8979702f71eb" />
+<img width="1834" height="764" alt="Screenshot of VIP Guest" src="https://github.com/user-attachments/assets/288b1f7b-724e-44b0-94fb-24e887693b5d" />
 
-
-<img width="1545" height="784" alt="Screenshot of Frequent Guest" src="https://github.com/user-attachments/assets/efb39ecd-3fb9-45cf-ac24-f1d5d5278825" />
 
